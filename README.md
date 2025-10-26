@@ -1,1 +1,1 @@
-This is the final assignment for out moudle_07 which focuses on the machine learning model. This is the Summative Lab for the loan approval project for a FinTech Innovation company.
+This is the final summative assignment for our course_06 modules, which focuses on the machine learning model. This is the Summative Lab for the loan approval project for a FinTech Innovation company.
